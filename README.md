@@ -3,4 +3,4 @@ Estou usando este repositório para aprender Git e seus comandos
 testando fazer mudanças no readme
 
 Deu certo, agora vamos adicionar imagens
-![./joia.jpg](teste com imagem)
+![Teste com imagem](./joia.jpg)
